@@ -1,0 +1,96 @@
+Nimbreth End User License Agreement
+
+Copyright (c) 2026 Nimbreth Labs. All rights reserved.
+
+This End User License Agreement ("Agreement") is a legal agreement between you
+("you") and Nimbreth Labs ("Nimbreth Labs", "we", "us") for the Nimbreth desktop
+application and the accompanying command line and terminal tools distributed in
+this repository, including any updates and documentation (together, the
+"Software").
+
+By downloading, installing, or using the Software, you agree to this Agreement.
+If you do not agree, do not download, install, or use the Software.
+
+1. License grant
+
+Nimbreth Labs grants you a personal, non-exclusive, non-transferable, revocable,
+royalty-free license to download, install, and use the Software on devices you
+own or control, for personal or internal business purposes. The Software is
+provided free of charge.
+
+2. Restrictions
+
+Except to the extent this restriction is prohibited by applicable law, you may
+not:
+
+  (a) redistribute, resell, sublicense, rent, lease, lend, or host the Software
+      as a service for third parties;
+  (b) reverse engineer, decompile, disassemble, or otherwise attempt to derive
+      the source code, algorithms, or internal structure of the Software;
+  (c) modify, adapt, translate, or create derivative works of the Software;
+  (d) remove, alter, or obscure any proprietary notices, labels, or marks on or
+      in the Software;
+  (e) circumvent or disable any security, licensing, or technical protection
+      measure in the Software; or
+  (f) use the Nimbreth name, logos, or trademarks except to identify the Software as
+      distributed by Nimbreth Labs.
+
+3. Ownership
+
+The Software is licensed, not sold. Nimbreth Labs and its licensors retain all
+right, title, and interest in and to the Software, including all intellectual
+property rights. No rights are granted to you except as expressly stated in this
+Agreement.
+
+4. Open source components
+
+The Software includes third-party open source components that are licensed under
+their own terms. Those terms govern your use of those components, and nothing in
+this Agreement limits any rights you have under them. A list of these components
+and their licenses is available on request at hello@nimbreth.com.
+
+5. Paid services
+
+The Software is and remains free to use. Optional paid services offered by Nimbreth
+Labs are governed by separate terms presented when you choose to use them. This
+Agreement does not require you to purchase anything.
+
+6. Updates
+
+The Software may check for and install updates automatically. Updates are
+provided under this Agreement unless they are accompanied by separate terms.
+
+7. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+8. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NIMBRETH LABS WILL NOT BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR
+FOR ANY LOSS OF DATA, PROFITS, OR GOODWILL, ARISING OUT OF OR RELATED TO THE
+SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+NIMBRETH LABS' TOTAL LIABILITY UNDER THIS AGREEMENT WILL NOT EXCEED THE AMOUNT YOU
+PAID FOR THE SOFTWARE, WHICH FOR THE FREE SOFTWARE IS ZERO.
+
+9. Termination
+
+This Agreement is effective until terminated. It terminates automatically if you
+breach any of its terms. On termination, you must stop using the Software and
+delete all copies. Sections 3, 7, 8, and 10 survive termination.
+
+10. Governing law
+
+This Agreement is governed by the laws of Germany, without
+regard to its conflict of law rules.
+
+11. Entire agreement
+
+This Agreement is the entire agreement between you and Nimbreth Labs regarding the
+Software and supersedes any prior understanding. If any provision is held
+unenforceable, the remaining provisions remain in effect.
+
+Contact: hello@nimbreth.com
