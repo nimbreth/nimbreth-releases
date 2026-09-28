@@ -259,6 +259,13 @@ shell_config_file() {
     esac
 }
 
+platform_config_dir() {
+    case "$(uname -s)" in
+        Darwin) echo "$HOME/Library/Application Support/nimbreth" ;;
+        *)      echo "${XDG_CONFIG_HOME:-$HOME/.config}/nimbreth" ;;
+    esac
+}
+
 uninstall() {
     echo ""
     echo "  Nimbreth Uninstaller"
@@ -290,13 +297,15 @@ uninstall() {
         echo "  Nothing to remove — nimbreth is not installed at the expected paths."
     fi
 
-    local config_dir="$HOME/.config/nimbreth"
+    local config_dir
+    config_dir="$(platform_config_dir)"
     if [[ -d "$config_dir" ]]; then
         echo ""
         echo "  Note: app config at $config_dir was preserved."
+        echo "  The desktop app keeps its config there too, so removing it also resets the desktop app."
         echo "  Remove it manually if you no longer need it:"
         echo ""
-        echo "    rm -rf $config_dir"
+        echo "    rm -rf \"$config_dir\""
     fi
 
     echo ""
